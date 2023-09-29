@@ -6,7 +6,6 @@ Pattern1:
  *****
   ***
    *
-
 package com.jsp.diamondpattern;
 
 public class Pattern1 {
